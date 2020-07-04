@@ -2,6 +2,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+#mensaje{
+    margin-top: 2%;
+}
+
 h2,.modal-header{
     font-family: 'Roboto', sans-serif;
 }
